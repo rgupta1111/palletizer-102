@@ -10,7 +10,7 @@
   ],
 
   "visibility": "private",
-  "url": "",
+  "url": "https://github.com/rgupta1111/palletizer-102",
   "description": "Rajeev version of Modular generic service: palletizer",
   "markdown_link": "README.md",
   "entrypoint": "dist/main",
